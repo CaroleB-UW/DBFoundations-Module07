@@ -6,7 +6,7 @@
 
 
 ### Introduction
-This is Module 7 Homework introduces the different type of SQL functions.
+This paper introduces different types of SQL functions.
 
 ### 1.	Explain when you would use a SQL UDF.
 I would use a SQL UDF (User-Defined Function) when there is no built-in functions available to perform the operations I need. One example is if need to be able to enter parameters in the program. The Function will return results depending on the value of the parameters. 
