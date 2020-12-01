@@ -18,4 +18,3 @@ I would use a SQL UDF (User-Defined Function) when there is no built-in function
 
 ### Summary
 There are different types of functions available for different interaction needs with the database. 
-
